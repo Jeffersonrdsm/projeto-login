@@ -82,7 +82,7 @@ div.campo > span {
     color: white;
     font-size: 2em;
     width: 40px;
-    padding: 5px;
+    padding: 4px;
 }
 
 div.campo > input {
@@ -93,7 +93,7 @@ div.campo > input {
 
     border: 0px;
     border-radius: 8px;
-    padding: 4px;
+    padding: px;
     transform: translateY(-12px);
 }
 
